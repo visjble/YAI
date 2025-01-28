@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/879c8978-faaa-46a8-bef7-001d6a0f3415)
+
+
+
 # YAI
 Leveraging AI and the yfinance python module to investigate the stock market
 
